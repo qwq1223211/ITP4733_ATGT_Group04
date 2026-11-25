@@ -1,0 +1,22 @@
+{
+  "name": "UnityAgent.Editor",
+  "rootNamespace": "Local.UnityAgent",
+  "references": [
+    "UnityEngine.UI",
+    "Unity.TextMeshPro",
+    "UnityEditor.TestRunner",
+    "UnityEngine.TestRunner",
+    "UnityAgent.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
